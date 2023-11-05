@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there Deepak 👋
+                                                               ✨𝕎ᴇʙ𝕊ɪᴛᴇ 𝔻ᴇᴠᴇʟᴏᴘᴇʀ ✨
+# About me
+🔭 I’m currently Student
 
-<!--
-**deepak10100/deepak10100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Fullstack Developer
 
-Here are some ideas to get you started:
+✌️ Enjoy to do programming and sharing knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ Love to writing code and learning new features
+
+📧 Reach me anytime: deepakmalakar98185@gmail.com
+
+💬 Ask me about anything here
+
+⚡ Fun fact I think I'm funny
+
+
+# Use To Code
+Javascript 
