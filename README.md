@@ -3,7 +3,7 @@
 # About me
 🔭 I’m currently Student
 
-🌱 I’m currently learning Fullstack Developer
+🌱 I’m currently learning MERN STACK Developer
 
 ✌️ Enjoy to do programming and sharing knowledge
 
