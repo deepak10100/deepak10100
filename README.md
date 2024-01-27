@@ -21,6 +21,6 @@
 * HTML
 * CSS
 * MongoDB
-* React Js
 * Express Js
+* React Js
 * Node Js
